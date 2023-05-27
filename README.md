@@ -14,7 +14,7 @@ https://www.tii.ae
 
 ### Models
 H100 (80 GB) <br />
-https://huggingface.co/tiiuae/falcon-40-binstruct (Thanks to tiiuae ❤) <br />
+https://huggingface.co/tiiuae/falcon-40b-instruct (Thanks to tiiuae ❤) <br />
 
 ### License: 
 https://huggingface.co/tiiuae/falcon-40b/blob/main/LICENSE.txt
